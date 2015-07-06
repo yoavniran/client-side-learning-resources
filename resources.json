@@ -1,0 +1,247 @@
+{
+	"RES_TYPE": {
+		"ARTICLE":1,
+		"VIDEO": 2,
+		"REPO": 3,
+		"NEWSLETTER": 4
+	},
+
+	"resources": {
+		"BASICS":{
+			"title": "Basics",
+			"resources":[
+			{
+				"title":"You Dont Know JS - A book series on JavaScript",
+				"url": "https://github.com/getify/You-Dont-Know-JS",
+				"type": 3
+			},
+			{
+				"title":"Common JavaScript \"Gotchas\"",
+				"url": "http://www.jblotus.com/2013/01/13/common-javascript-gotchas/",
+				"type": 1 
+			},
+			{
+				"title":"5 Rules For Mastering JavaScript’s “this” – free 5 day newsletter from Derick Bailey",
+				"url": "http://derickbailey.com/email-courses/masteringthis/",
+				"type":4,
+				"must": true
+			},
+
+			{
+				"title":"Crockford on JavaScript: The Complete Series",
+				"url": "http://code.tutsplus.com/tutorials/crockford-on-javascript-the-complete-series--net-10952",
+				"type": 2,
+				"description": "A must watch series (look for the rest of the espisodes online. There are 3 or 4  more!)"
+			},
+			{
+				"title":"Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises",
+				"url": "http://sporto.github.io/blog/2012/12/09/callbacks-listeners-promises/",
+				"type": 1 
+			}]	
+		},
+		"PERFORMANCE":{
+			"title": "Performance",
+			"resources":[
+			{
+				"title":"Minimizing browser reflow",
+				"url": "https://developers.google.com/speed/articles/reflow",
+				"type": 1
+			},
+			{
+				"title":"Repaints and Reflows: Manipulating the DOM responsibly",
+				"url": "http://blog.letitialew.com/post/30425074101/repaints-and-reflows-manipulating-the-dom",
+				"type": 1,
+				"must": true
+			},
+			{
+				"title":"Reflows & Repaints: CSS Performance making your JavaScript slow?",
+				"url": "http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/",
+				"type": 1
+			},
+			{
+				"title":"Let’s Write Fast JavaScript",
+				"url": "https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e",
+				"type": 1,
+				"must": true
+			},
+			{
+				"title":"Writing Fast, Memory-Efficient JavaScript",
+				"url": "http://www.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/",
+				"type": 1
+			},
+			{
+				"title":"Google I/O 2012 - Jank Busters: Building Performant Web Apps",
+				"url": "https://www.youtube.com/watch?v=hAzhayTnhEI",
+				"type": 2
+			},
+			{
+				"title":"Best Practices for Increasing Website Performance",
+				"url": "http://webdesign.tutsplus.com/articles/best-practices-for-increasing-website-performance--webdesign-9109",
+				"type": 1
+			},
+			{
+				"title":"Optimizing JavaScript code",
+				"url": "https://developers.google.com/speed/articles/optimizing-javascript",
+				"type": 1
+			},
+			{
+				"title":"Performance Optimizations for High Speed JavaScript",
+				"url": "http://www.webreference.com/programming/javascript/jkm3/index.html",
+				"type": 1
+			},
+			{
+				"title":"10 Javascript Performance Boosting Tips from Nicholas Zakas",
+				"url": "http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas",
+				"type": 1
+			}]
+		},
+		"ADVANCED":{
+			"title": "Advanced Topics",
+			"resource":[
+				{
+					"title":"JavaScript Promises",
+					"url": "http://www.html5rocks.com/en/tutorials/es6/promises/",
+					"type":  1
+				},
+				{
+					"title":"The Basics Of ES6 Generators",
+					"url": "http://davidwalsh.name/es6-generators",
+					"type": 1
+				},
+				{
+					"title":"Javascript Async Control Flow",
+					"url": "http://kaye.us/javascript-async-control-flow",
+					"type": 1
+				}]
+		},
+		"INTERNALS":{
+			"title": "Internals",
+			"resources":[
+			{
+				"title":"What the heck is the event loop anyway?",
+				"url": "http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html",
+				"type": 2,
+				"must": true
+			},
+			{
+				"title":"How Browsers Work: Behind the scenes of modern web browsers",
+				"url": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
+				"type": 1
+			}]
+		},
+		"CSS": {
+			"title": "CSS",
+			"resources": [
+			{
+				"title":"Box Sizing",
+				"url": "https://css-tricks.com/box-sizing/",
+				"type": 1,
+				"must": true
+			},
+			{
+				"title":"25 CSS best practices we follow at Innofied",
+				"url": "http://innofied.com/25-css-best-practices-we-follow-at-innofied/",
+				"type": 1
+			},
+			{
+				"title":"CSS Best Practices to Follow and Bad Habits to Avoid",
+				"url": "http://www.1stwebdesigner.com/css-best-practices/",
+				"type": 1
+			},
+			{
+				"title":"CSS Architectures: New Best Practices",
+				"url": "http://www.sitepoint.com/css-architectures-new-best-practices/",
+				"type": 1
+			},
+			{
+				"title":"CSS Selectors",
+				"url": "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors",
+				"type": 1,
+				"must": true
+			},		
+			]
+		},
+		"SASS": {
+			"title": "SASS: Syntactically Awesome Style Sheets",
+			"resources": [
+			{
+				"title":"Sass Basics",
+				"url": "http://sass-lang.com/guide",
+				"type": 1,				
+			},
+			{
+				"title":"Getting started with Sassy CSS (SCSS)",
+				"url": "http://mri.developer.dynamicweb-cms.com/blog/2012/09/getting-started-with-sassy-css-%28scss%29.aspx",
+				"type": 1
+			},
+			{
+				"title":"Getting Started with SASS (with interactive examples)",
+				"url": "https://scotch.io/tutorials/getting-started-with-sass",
+				"type": 1
+			},
+			{
+				"title":"An opinionated styleguide for writing sane, maintainable and scalable Sass.",
+				"url": "http://sass-guidelin.es/",
+				"type": 1,
+				"must": true
+			}]
+		},
+		"TEMPLATING":{
+			"title": "Templating",
+			"resources":[
+				{
+					"title":"Client-Side Templating",
+					"url": "http://www.smashingmagazine.com/2012/12/05/client-side-templating/",
+					"type": 1
+				},
+				{
+					"title":"Best Practices When Working With JavaScript Templates",
+					"url": "http://code.tutsplus.com/tutorials/best-practices-when-working-with-javascript-templates--net-28364",
+					"type": 1
+				}]
+		},
+		"BUILD":{
+			"title": "Build Tools",
+			"resources":[
+			{
+				"title":"Grunt - getting started",
+				"url": "http://gruntjs.com/getting-started",
+				"type": 1
+			},
+			{
+				"title":"Getting Started with Gulp",
+				"url": "https://travismaynard.com/writing/getting-started-with-gulp",
+				"type": 1
+			}]
+		},
+		"DEPENDENCIES":{
+			"title": "Dependencies & Package Management",
+			"resources":[
+			{
+				"title":"What is npm?",
+				"url": "https://docs.npmjs.com/getting-started/what-is-npm",
+				"type": 1
+			},
+			{
+				"title":"Semantic Versioning",
+				"url": "https://sethvargo.com/semantic-versioning/",
+				"type": 1
+			},
+			{
+				"title":"Understanding semver versioning for your nodejs packages",
+				"url": "http://javascript.tutorialhorizon.com/2014/09/20/understanding-semver-versioning-for-your-nodejs-packages/",
+				"type": 1
+			},
+			{
+				"title":"Meet Bower: A Package Manager For The Web",
+				"url": "http://code.tutsplus.com/tutorials/meet-bower-a-package-manager-for-the-web--net-27774",
+				"type": 1
+			},
+			{
+				"title":"Getting Started With jspm & SystemJS",
+				"url": "https://medium.com/@swirlycheetah/getting-started-with-jspm-systemjs-d6f2560b7eb4",
+				"type": 1							
+			}]			
+		}
+	}
+}	
