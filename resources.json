@@ -31,6 +31,7 @@
 				"title":"Crockford on JavaScript: The Complete Series",
 				"url": "http://code.tutsplus.com/tutorials/crockford-on-javascript-the-complete-series--net-10952",
 				"type": 2,
+				"must": true,
 				"description": "A must watch series (look for the rest of the espisodes online. There are 3 or 4  more!)"
 			},
 			{
@@ -97,7 +98,7 @@
 		},
 		"ADVANCED":{
 			"title": "Advanced Topics",
-			"resource":[
+			"resources":[
 				{
 					"title":"JavaScript Promises",
 					"url": "http://www.html5rocks.com/en/tutorials/es6/promises/",
@@ -158,8 +159,7 @@
 				"url": "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors",
 				"type": 1,
 				"must": true
-			},		
-			]
+			}]
 		},
 		"SASS": {
 			"title": "SASS: Syntactically Awesome Style Sheets",
@@ -167,7 +167,7 @@
 			{
 				"title":"Sass Basics",
 				"url": "http://sass-lang.com/guide",
-				"type": 1,				
+				"type": 1
 			},
 			{
 				"title":"Getting started with Sassy CSS (SCSS)",
@@ -220,7 +220,8 @@
 			{
 				"title":"What is npm?",
 				"url": "https://docs.npmjs.com/getting-started/what-is-npm",
-				"type": 1
+				"type": 1,
+				"must": true
 			},
 			{
 				"title":"Semantic Versioning",
