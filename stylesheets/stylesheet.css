@@ -355,7 +355,7 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: #f2f2f2;
+  background: #F7FDFD;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
@@ -422,4 +422,52 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+.resource-item{
+  padding-left:32px;
+  margin-bottom: 26px;
+  margin-left:10px;
+  position: relative;
+}
+
+
+.resource-item:before{
+  content:"";
+  width:32px;
+  height:32px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  left:-4px;
+  top:-4px;  
+}
+
+.resource-item.recommended a:after{
+  content:"recommended";
+  font-weight: bold;
+  font-size:10px;
+  vertical-align: super;
+  position: absolute;
+  color:#B50808;
+  margin-left:4px;
+  text-shadow: #000 0px 2px 5px;  
+}
+
+.resource-item.resType1:before{
+  background-image: url("/images/article.png");
+}
+
+.resource-item.resType2:before{
+  background-image: url("/images/video.png");
+  background-size: inherit;
+}
+
+.resource-item.resType3:before{
+  background-image: url("/images/repo.png");
+}
+
+.resource-item.resType4:before{
+  background-image: url("/images/newsletter.png");
 }

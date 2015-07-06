@@ -4,8 +4,8 @@ This resource aims to build a curated list of articles, videos and tools that wi
 in learning client-side development. 
 The list covers different aspects of front-end and client-side development. 
 
-> disclaimer: __This list is biased towards technologies that I personally use__
+> disclaimer: __This list may slightly be biased towards technologies that I personally use :)__
 
-## suggestions are very much welcomed
+__Suggestions are very much welcomed !!!__
 
-### Chief Curator: Yoav Niran [@poeticGeek](https://twitter.com/poeticGeek)
+#### Chief Curator: Yoav Niran [@poeticGeek](https://twitter.com/poeticGeek)
