@@ -456,18 +456,18 @@ Small Device Styles
 }
 
 .resource-item.resType1:before{
-  background-image: url("/images/article.png");
+  background-image: url("../images/article.png");
 }
 
 .resource-item.resType2:before{
-  background-image: url("/images/video.png");
+  background-image: url("../images/video.png");
   background-size: inherit;
 }
 
 .resource-item.resType3:before{
-  background-image: url("/images/repo.png");
+  background-image: url("../images/repo.png");
 }
 
 .resource-item.resType4:before{
-  background-image: url("/images/newsletter.png");
+  background-image: url("../images/newsletter.png");
 }
