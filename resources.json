@@ -219,6 +219,21 @@
 				"type": 1
 			}]
 		},
+		"LINTING":{
+			"title": "Linters - automatically find issues in JS code",
+			"resources":[
+			{
+				"title": "Improving Code Quality with JSHint",
+				"url": "http://blog.teamtreehouse.com/improving-code-quality-jshint",
+				"type": 1,
+				"must": true
+			},
+			{
+				"title":"A Comparison of JavaScript Linting Tools",
+				"url": "http://www.sitepoint.com/comparison-javascript-linting-tools/",
+				"type": 1				
+			}]
+		},
 		"DEPENDENCIES":{
 			"title": "Dependencies & Package Management",
 			"resources":[
