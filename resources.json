@@ -118,6 +118,11 @@
 					"title":"Javascript Async Control Flow",
 					"url": "http://kaye.us/javascript-async-control-flow",
 					"type": 1
+				},
+				{
+					"title":"Partial Application in JavaScript",
+					"url": "http://ejohn.org/blog/partial-functions-in-javascript/",
+					"type": 1
 				}]
 		},
 		"INTERNALS":{
