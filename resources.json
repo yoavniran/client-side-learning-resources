@@ -43,6 +43,12 @@
 				"title": "JavaScript Patterns Collection",
 				"url": "http://shichuan.github.io/javascript-patterns/",
 				"type": 3
+			},{
+				"title":"Event order",
+				"url": "http://www.quirksmode.org/js/events_order.html",
+				"type": 1,
+				"description": "How does event ordering work in browsers",
+				"must": true
 			}]	
 		},
 		"PERFORMANCE":{
