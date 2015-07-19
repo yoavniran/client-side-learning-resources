@@ -191,6 +191,12 @@
 				"url": "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors",
 				"type": 1,
 				"must": true
+			},
+			{
+				"title": "CSS Font Sizing",
+				"url": "http://bitsofco.de/2015/css-font-sizing/",
+				"type": 1,
+				"must": true
 			}]
 		},
 		"SASS": {
