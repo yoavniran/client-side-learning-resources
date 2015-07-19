@@ -131,6 +131,22 @@
 					"type": 1
 				}]
 		},
+		"FUNCTIONAL":{
+			"title": "Functional Programming with JavaScript",
+			"resources":[
+				{
+					"title": "Mostly adequate guide to Functional Programming (in javascript)",
+					"url": "https://github.com/DrBoolean/mostly-adequate-guide",
+					"type": 3,
+					"must": true
+				},
+				{
+					"title": "Monads in JavaScript",
+					"url": "https://curiosity-driven.org/monads-in-javascript",
+					"type": 1
+				}
+			]
+		},
 		"INTERNALS":{
 			"title": "Internals",
 			"resources":[
