@@ -129,6 +129,18 @@
 					"title":"Partial Application in JavaScript",
 					"url": "http://ejohn.org/blog/partial-functions-in-javascript/",
 					"type": 1
+				},
+				{
+					"title": "JS Objects: Inherited a Mess",
+					"url": "http://davidwalsh.name/javascript-objects",
+					"type": 1,
+					"description": "If you feel like you're ready to disengage yourself from the notion of inheritance in javascript, you should read this article"
+				},
+				{
+					"title": "The Two Pillars of JavaScript (part 1)",
+					"url": "https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3",
+					"type": 1,
+					"description": "If you feel like you're ready to disengage yourself from the notion of inheritance in javascript, you should read this article"
 				}]
 		},
 		"FUNCTIONAL":{
