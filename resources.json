@@ -177,7 +177,7 @@
 		},
 		"ES6": {
 			"title": "ES6 (2015)",
-			"resource": [
+			"resources": [
 				{
 					"title": "Exploring ES6 (Dr. Axel Rauschmayer)",
 					"url": "http://exploringjs.com/es6/",

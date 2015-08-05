@@ -471,3 +471,7 @@ Small Device Styles
 .resource-item.resType4:before{
   background-image: url("../images/newsletter.png");
 }
+
+.resource-item.resType5:before{
+  background-image: url("../images/book.png");
+}
