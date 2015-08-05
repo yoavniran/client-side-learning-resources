@@ -3,7 +3,8 @@
 		"ARTICLE":1,
 		"VIDEO": 2,
 		"REPO": 3,
-		"NEWSLETTER": 4
+		"NEWSLETTER": 4,
+		"BOOK": 5
 	},
 
 	"resources": {
@@ -174,6 +175,23 @@
 				"type": 1
 			}]
 		},
+		"ES6": {
+			"title": "ES6 (2015)",
+			"resource": [
+				{
+					"title": "Exploring ES6 (Dr. Axel Rauschmayer)",
+					"url": "http://exploringjs.com/es6/",
+					"type": 5,
+					"must": true,
+					"description":  "Fantastic resource for anyone that wants a deep dive into the upcoming features of the next version of Javascript"
+				},
+				{
+					"title": "ECMAScript 6 support in Mozilla",
+					"url": "https://developer.mozilla.org/en/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla",
+					"type": 1
+				}
+			]
+		},	
 		"CSS": {
 			"title": "CSS",
 			"resources": [
