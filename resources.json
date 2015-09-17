@@ -178,6 +178,10 @@
 				"title":"How Browsers Work: Behind the scenes of modern web browsers",
 				"url": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
 				"type": 1
+			},{
+				"title":"Events and timing in-depth",
+				"url": "http://javascript.info/tutorial/events-and-timing-depth",
+				"type": 1
 			}]
 		},
 		"ES6": {
