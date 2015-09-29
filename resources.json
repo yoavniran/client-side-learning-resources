@@ -189,6 +189,11 @@
 				"url": "http://dmitryfrank.com/articles/js_closures",
 				"type": 1,
 				"must": true
+			},
+			{		
+				"title":"A Guide to JavaScript Engines for Idiots",
+				"url": "http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots",
+				"type": 1
 			}]
 		},
 		"ES6": {
