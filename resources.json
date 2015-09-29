@@ -44,11 +44,19 @@
 				"title": "JavaScript Patterns Collection",
 				"url": "http://shichuan.github.io/javascript-patterns/",
 				"type": 3
-			},{
+			},
+			{
 				"title":"Event order",
 				"url": "http://www.quirksmode.org/js/events_order.html",
 				"type": 1,
 				"description": "How does event ordering work in browsers",
+				"must": true
+			},
+			{
+				"title":"Speaking JavaScript by Dr. Axel Rauschmayer",
+				"url": "http://speakingjs.com/es5/index.html",
+				"type": 5,
+				"description": "Pretty much Everything you need to know about JavaScript as of ES5",
 				"must": true
 			}]	
 		},
