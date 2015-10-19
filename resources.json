@@ -202,6 +202,12 @@
 				"title":"A Guide to JavaScript Engines for Idiots",
 				"url": "http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots",
 				"type": 1
+			},
+			{
+				"title":"Tasks, microtasks, queues and schedules",
+				"url": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/",
+				"type": 1,
+				"must": true
 			}]
 		},
 		"ES6": {
