@@ -170,6 +170,11 @@
 					"title": "Monads in JavaScript",
 					"url": "https://curiosity-driven.org/monads-in-javascript",
 					"type": 1
+				},
+				{
+					"title": "James Coglan: Practical functional programming: pick two",
+					"url": "https://www.youtube.com/watch?v=XcS-LdEBUkE",
+					"type": 2
 				}
 			]
 		},
